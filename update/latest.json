@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "from_version": "1.0.0",
-  "package_url": "",
-  "package_sha256": "",
-  "notes": "卓録 1.0.0 正式版"
+  "package_url": "https://github.com/siv2222/takuroku-updates/releases/download/v1.0.1-test/takuroku_update_test_1.0.0_to_1.0.1.zip",
+  "package_sha256": "8229e9e9221d444321928d24e99aabf2c34f8dd7475ff567cad1daa2d95d8531",
+  "notes": "アップデート機構の動作確認用テストです。卓録本体の機能変更はありません。"
 }
