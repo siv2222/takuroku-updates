@@ -2,6 +2,6 @@
   "version": "1.0.1",
   "from_version": "1.0.0",
   "package_url": "https://github.com/siv2222/takuroku-updates/releases/download/v1.0.1/takuroku_update_1.0.0_to_1.0.1.zip",
-  "package_sha256": "生成されたSHA-256",
-  "notes": "卓録 1.0.1"
+  "package_sha256": "a0f95d9d32f27300bcc615218d38c684df1f24f98b6d75676d7af6c31a5c8463",
+  "notes": "書き出し画面をPDF/Word/TXT/Markdownで統合し、出力順とPDF改行を改善。卓・キャンペーンの自由な並び替えとDiscord風カテゴリ整理を追加。"
 }
